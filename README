@@ -1,0 +1,4 @@
+# Diabetic-Retinopathy-Detection
+A Desktop application which when given a fundus/retinal image of the eye it gives back the stage of DR on basis of two different Machine Learning Algorithms LogisticRegression and SVM. For upgradation the whole system was made standalone using RaspberryPi as brains and body
+Languages/Libraries - Python, Computer Vision, Sckit-Learn
+contact ripusudan@outlook.in for project.
